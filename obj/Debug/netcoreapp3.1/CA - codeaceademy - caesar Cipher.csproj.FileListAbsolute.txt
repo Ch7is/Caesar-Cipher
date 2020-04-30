@@ -1,0 +1,13 @@
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/bin/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/bin/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher.deps.json
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/bin/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher.runtimeconfig.json
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/bin/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher.runtimeconfig.dev.json
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/bin/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher.dll
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/bin/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher.pdb
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/obj/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher.csprojAssemblyReference.cache
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/obj/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher.csproj.CoreCompileInputs.cache
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/obj/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher.AssemblyInfoInputs.cache
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/obj/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher.AssemblyInfo.cs
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/obj/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher.dll
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/obj/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher.pdb
+/home/chris/Projects/CA - codeaceademy - caesar Cipher/obj/Debug/netcoreapp3.1/CA - codeaceademy - caesar Cipher.genruntimeconfig.cache
